@@ -63,6 +63,5 @@ This dashboard compares:
 
 ## How to Open the Project
 1.	Open the Tableau workbook (.twb or .twbx) in: Tableau Desktop or Tableau Public (Version X or higher)
-2.	Ensure the file below is available:
-3.	data/countries-of-the-world_cleaned.csv Or manually update the data source inside Tableau.
-4.	Use the built-in filters
+2.	Ensure the file below is available: data/countries-of-the-world_cleaned.csv Or manually update the data source inside Tableau
+3.	Use the built-in filters
