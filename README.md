@@ -4,7 +4,7 @@ This is a Tableau storytelling project built on a global development indicators 
 ## Dataset
 Source: World Bankopen data
 Key Columns
-•	country, region – Country name and geographic region
+- country, region – Country name and geographic region
 •	population, area_sq_mi, pop_density – Size, land area, and population density
 •	coastline, climate – Coastal ratio and climate index
 •	infant_mortality_per_1000_births, birth_rate, death_rate – Core health indicators
