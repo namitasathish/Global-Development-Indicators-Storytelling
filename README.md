@@ -23,7 +23,7 @@ This dashboard presents a region-coded world map summarizing:
 -	GDP per capita
 -	Literacy
 -	Health
--	Land use
+-	Land use <br>
 
 
 **Dashboard 2 – Economic Development & Sector Contributions**
@@ -33,15 +33,16 @@ explores:
 -	GDP per capita vs literacy
 -	Sector-wise contribution (Agriculture, Industry, Services)
 -	Regional economic dependency
--	Top 5 GDP-performing countries
+-	Top 5 GDP-performing countries <br>
 
  **Dashboard 3 – Economic Indicators & Inequality**
+
  <img src="Dashboards/img3.png" width="650" height="350">
 Economic indicators dashboard linking GDP per capita, literacy, and a global economic-levels map to highlight regional inequalities.
 combines:
 -	GDP bubble chart
 -	Dual-axis Literacy vs GDP chart
--	Global Economic Levels Map
+-	Global Economic Levels Map<br>
 
 **Dashboard 4 – Health & Migration Statistics**
 
@@ -50,7 +51,7 @@ Health and migration dashboard connecting infant mortality, birth and death rate
 This dashboard visualizes:
 -	Infant mortality (choropleth map)
 -	Birth and death rates
--	Net migration trends
+-	Net migration trends<br>
 
 **Dashboard 5 – Climate Change, Arable Land & Agriculture**
 <img src="Dashboards/img5.png" width="650" height="350">
@@ -58,7 +59,7 @@ Climate–agriculture dashboard analyzing arable land levels, climate categories
 This dashboard links:
 -	Climate type
 -	Percentage of arable land
-- Agricultural GDP contribution
+- Agricultural GDP contribution<br>
 
 **Dashboard 6 – Digital Penetration, Education & Wealth**
 <img src="Dashboards/img6.png" width="650" height="350">
@@ -66,7 +67,7 @@ Digital development dashboard relating mobile phones per 1000 people to GDP per 
 This dashboard compares:
 -	Mobile penetration
 -	Literacy
--	GDP per capita
+-	GDP per capita<br>
 
 
 ## How to Open the Project
