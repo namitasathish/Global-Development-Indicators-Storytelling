@@ -15,6 +15,7 @@ Key Columns
 
 # Dashboards Overview
 **Dashboard 1 – Global Development Indicators**
+<img src="Dashboards/img1.png" width="650" height="350">
 Overview dashboard showing a region-colored world map summarizing key development indicators and acting as the entry point into the story.
 This dashboard presents a region-coded world map summarizing:
 - Population
@@ -22,10 +23,10 @@ This dashboard presents a region-coded world map summarizing:
 -	Literacy
 -	Health
 -	Land use
-<img src="Dashboards/img1.png" width="650" height="350">
 
 
 **Dashboard 2 – Economic Development & Sector Contributions**
+<img src="Dashboards/img2.png" width="650" height="350">
 Economic structure dashboard comparing average GDP, literacy, and the relative contribution of agriculture, industry, and services by region and by top GDP countries.
 explores:
 -	GDP per capita vs literacy
