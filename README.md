@@ -22,6 +22,8 @@ This dashboard presents a region-coded world map summarizing:
 -	Literacy
 -	Health
 -	Land use
+<img src="Dashboards/img1.png" width="650" height="350">
+
 
 **Dashboard 2 – Economic Development & Sector Contributions**
 Economic structure dashboard comparing average GDP, literacy, and the relative contribution of agriculture, industry, and services by region and by top GDP countries.
