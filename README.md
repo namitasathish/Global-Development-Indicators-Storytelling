@@ -44,7 +44,8 @@ combines:
 -	Global Economic Levels Map
 
 **Dashboard 4 – Health & Migration Statistics**
-<img src="Dashboards/img4.png" width="650" height="350">
+
+ <img src="Dashboards/img4.png" width="650" height="350">
 Health and migration dashboard connecting infant mortality, birth and death rates, and net migration to reveal population and wellbeing patterns.
 This dashboard visualizes:
 -	Infant mortality (choropleth map)
