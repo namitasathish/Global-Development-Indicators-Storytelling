@@ -14,7 +14,7 @@ Key Columns
 
 
 # Dashboards Overview
-**Dashboard 1 – Global Development Indicators**
+## **Dashboard 1 – Global Development Indicators**
 
 <img src="Dashboards/img1.png" width="650" height="350">
 Overview dashboard showing a region-colored world map summarizing key development indicators and acting as the entry point into the story.
@@ -26,7 +26,7 @@ This dashboard presents a region-coded world map summarizing:
 -	Land use <br>
 
 
-**Dashboard 2 – Economic Development & Sector Contributions**
+## **Dashboard 2 – Economic Development & Sector Contributions**
 <img src="Dashboards/img2.png" width="650" height="350">
 Economic structure dashboard comparing average GDP, literacy, and the relative contribution of agriculture, industry, and services by region and by top GDP countries.
 explores:
@@ -35,7 +35,7 @@ explores:
 -	Regional economic dependency
 -	Top 5 GDP-performing countries <br>
 
- **Dashboard 3 – Economic Indicators & Inequality**
+ ## **Dashboard 3 – Economic Indicators & Inequality**
 
  <img src="Dashboards/img3.png" width="650" height="350">
 Economic indicators dashboard linking GDP per capita, literacy, and a global economic-levels map to highlight regional inequalities.
@@ -44,7 +44,7 @@ combines:
 -	Dual-axis Literacy vs GDP chart
 -	Global Economic Levels Map<br>
 
-**Dashboard 4 – Health & Migration Statistics**
+## **Dashboard 4 – Health & Migration Statistics**
 
  <img src="Dashboards/img4.png" width="650" height="350">
 Health and migration dashboard connecting infant mortality, birth and death rates, and net migration to reveal population and wellbeing patterns.
@@ -53,7 +53,7 @@ This dashboard visualizes:
 -	Birth and death rates
 -	Net migration trends<br>
 
-**Dashboard 5 – Climate Change, Arable Land & Agriculture**
+## **Dashboard 5 – Climate Change, Arable Land & Agriculture**
 <img src="Dashboards/img5.png" width="650" height="350">
 Climate–agriculture dashboard analyzing arable land levels, climate categories, and agricultural GDP dependence across countries.
 This dashboard links:
@@ -61,7 +61,7 @@ This dashboard links:
 -	Percentage of arable land
 - Agricultural GDP contribution<br>
 
-**Dashboard 6 – Digital Penetration, Education & Wealth**
+## **Dashboard 6 – Digital Penetration, Education & Wealth**
 <img src="Dashboards/img6.png" width="650" height="350">
 Digital development dashboard relating mobile phones per 1000 people to GDP per capita and literacy, plus a bubble view of the top 10 economies.
 This dashboard compares:
