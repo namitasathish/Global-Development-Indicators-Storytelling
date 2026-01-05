@@ -49,7 +49,3 @@ Digital development dashboard relating mobile phones per 1000 people to GDP per 
 This dashboard compares:Mobile penetration, Literacy, GDP per capita<br>
 
 
-## How to Open the Project
-1.	Open the Tableau workbook (.twb or .twbx) in: Tableau Desktop or Tableau Public (Version X or higher)
-2.	Ensure the file below is available: data/countries-of-the-world_cleaned.csv Or manually update the data source inside Tableau
-3.	Use the built-in filters
